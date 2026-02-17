@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+openai
+pypdf
+tiktoken
+python-dotenv
+sentence-transformers
+transformers
+torch
+numpy
